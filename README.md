@@ -16,4 +16,3 @@ The app includes three logical pages:
    - Boxes for year-to-date KPIs
    - A column chart showing average amount spent per transaction
     
-All components work as expected, matching the screenshots provided in the activity.
